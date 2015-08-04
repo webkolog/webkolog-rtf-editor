@@ -1,0 +1,11 @@
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\bin\Debug\WebkologRtfEditor.exe.config
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\bin\Debug\WebkologRtfEditor.exe
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\bin\Debug\WebkologRtfEditor.pdb
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.AboutBox1.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.Form1.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.FormFind.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.FormReplace.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.Properties.Resources.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.csproj.GenerateResource.Cache
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.exe
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologRtfEditor\WebkologRtfEditor\obj\x86\Debug\WebkologRtfEditor.pdb
